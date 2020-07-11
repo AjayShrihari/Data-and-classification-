@@ -1,4 +1,4 @@
-# Data-and-classification-
+# Data-and-classification
 An exercise in understanding data and classification from first principles, repository contains a formatted IPython notebook done as part of the Statistical Methods in AI course taken by Dr. CV Jawahar at IIIT Hyderabad.
 
 Algorithms written include the following for the MNIST dataset:
